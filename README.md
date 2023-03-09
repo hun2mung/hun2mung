@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hun2mung/hun2mung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact)](https://github.com/hun2mung/github-readme-stats)
