@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HUN2MUNG%20&fontSize=80)
 
-![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=swift)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact)](https://github.com/hun2mung/github-readme-stats)
-HITS
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhun2mung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  HITS
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhun2mung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.hun2mung.com)
+  
+</div>
 
