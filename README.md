@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HUN2MUNG%20&fontSize=80)
+
 ![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact)](https://github.com/hun2mung/github-readme-stats)
+
