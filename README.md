@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   
 [![followers](https://img.shields.io/github/followers/hun2mung?style=social)]
   
+  TECH
+  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  
   Baekjoon
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldh5444)](https://solved.ac/ldh5444)
