@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=200&section=header&text=HUN2MUNG%20😃&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=100&section=header&text=HUN2MUNG%20😃&fontSize=50)
 </div>
 
 <div align="center"><h2>👋 Hi, I’m donghun </h2></div>
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   Followers
   
 [![followers](https://img.shields.io/github/followers/hun2mung?style=social)]
+  
+  Baekjoon
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldh5444)](https://solved.ac/ldh5444)
 </div>
