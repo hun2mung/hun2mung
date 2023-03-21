@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 [![followers](https://img.shields.io/github/followers/hun2mung?style=social)]
   
   TECH
+<p align='center'>
   
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+</p>  
   
   Baekjoon
   
