@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact&theme=dracula)
 
-  HITS / Followers
+ <b> 💕HITS / Followers </b>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhun2mung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hun2mung)  &nbsp;&nbsp;&nbsp;
 ![followers](https://img.shields.io/github/followers/hun2mung?style=social)
   
-  TECH
+<b> 🚀TECH </b>
 <p align='center'>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>  
   
-  Baekjoon
+<b> 🔎Baekjoon </b>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldh5444)](https://solved.ac/ldh5444)
 </div>
