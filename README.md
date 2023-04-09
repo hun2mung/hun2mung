@@ -16,11 +16,12 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=100&section=header&text=HUN2MUNG%20😃&fontSize=50)
 
-<div align="center"><h2>👋 Hi, I’m donghun </h2></div>
+<h2>👋 Hi, I’m donghun </h2>
 
+</br>
   
-![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact)](https://github.com/hun2mung/github-readme-stats)
+![hun2mung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun2mung&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun2mung&layout=compact&theme=dracula)
 
   HITS / Followers
   
