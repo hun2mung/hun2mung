@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>  
   
-<b> 🔎Baekjoon </b>
+<!--  <b> 🔎Baekjoon </b>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldh5444)](https://solved.ac/ldh5444)
-</div>
+</div>          -->
 
