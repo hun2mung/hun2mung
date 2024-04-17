@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldh5444)](https://solved.ac/ldh5444)
 </div>          -->
 
-<b>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hun2mung)](https://velog.io/@hun2mung/posts)
-</b>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hun2mung)](https://velog.io/@hun2mung/posts))
+
