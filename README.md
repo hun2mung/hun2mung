@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 </div>          -->
 
 <b>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ldh5444)](https://velog.io/@hun2mung/posts)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hun2mung)](https://velog.io/@hun2mung/posts)
 </b>
